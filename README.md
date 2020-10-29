@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm zJerino</h1>
+<center>
+  <h1 align="center">Hi 👋, I'm zJerino</h1>
 <h3 align="center">I am a 16 year old boy from Venezuela who loves to learn and help others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zjerino&label=Profile%20views&color=0e75b6&style=flat" alt="zjerino" /> </p>
@@ -35,3 +36,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zjerino&show_icons=true&locale=en&layout=compact" alt="zjerino" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zjerino&show_icons=true&locale=en" alt="zjerino" /></p>
+</center>
